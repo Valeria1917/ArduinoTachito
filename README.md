@@ -9,6 +9,8 @@ Para crear un árbol navideño interactivo, necesitarás varios componentes elec
 # Materiales a utilizar
 
 ![Captura de pantalla 2024-09-27 191515](https://github.com/user-attachments/assets/5781de0f-f037-40f0-96aa-b89066d11128)
+
+![Captura de pantalla 2024-09-27 191522](https://github.com/user-attachments/assets/b2c0935c-7ee7-4932-8258-bbe11642822c)
 # 
 # 
 # 
