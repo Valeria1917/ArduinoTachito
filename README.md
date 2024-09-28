@@ -16,6 +16,16 @@ Thonny, Arduino
 # Dibujo del personaje
 
 ![Captura de pantalla 2024-09-27 192701](https://github.com/user-attachments/assets/01f83635-6659-4527-8eae-a9db2df7d7f0)
+# Enlaces de la simulacion de wokwi
+![Captura de pantalla 2024-09-27 192929](https://github.com/user-attachments/assets/cdce20c8-7c0f-4683-b5b4-a15bc17c0241)
+https://wokwi.com/projects/410230643580494849
+
+#
+#
+#
+#
+
+
 
 
 
