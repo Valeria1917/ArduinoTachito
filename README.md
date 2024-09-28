@@ -27,7 +27,7 @@ https://wokwi.com/projects/410230643580494849
 
 
 # Enlace de simulacion de wokwi del personaje Navideño
-
+https://wokwi.com/projects/410146667710489601
 
 # Imagen de los examenes de cisco
 
