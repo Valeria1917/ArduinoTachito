@@ -23,8 +23,12 @@ Thonny, Arduino
 
 https://wokwi.com/projects/410230643580494849
 
-#
-#
+# Enlace al video de la simulacion en wokwi
+
+
+# Enlace de simulacion de wokwi del personaje Navideño
+
+
 #
 #
 
