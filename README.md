@@ -26,6 +26,9 @@ https://wokwi.com/projects/410230643580494849
 # Enlace al video de la simulacion en wokwi
 
 https://drive.google.com/file/d/1_8vZPjFtwZMDTvAbJi6ghlzwTQKvoeGP/view?usp=sharing
+
+
+
 https://drive.google.com/file/d/1Jwtcz5jjbd272e4ug9BN5r8zfSw2d4Ln/view?usp=sharing
 
 # Enlace de simulacion de wokwi del personaje Navideño
