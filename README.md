@@ -49,7 +49,7 @@ Módulo 4
 Módulo 5
 ![Captura de pantalla 2024-09-27 195903](https://github.com/user-attachments/assets/704d7b42-a824-47c7-b094-dfff3827a1c7)
 Examen Final
-
+![Captura de pantalla 2024-09-27 200231](https://github.com/user-attachments/assets/0efa96e6-6631-42c7-906b-e15b7ff2ee83)
 
 
 
