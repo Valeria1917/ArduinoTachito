@@ -21,7 +21,8 @@ Thonny, Arduino,Node Red
 # Dibujo de los  personajes
 
 ![Captura de pantalla 2024-09-27 192701](https://github.com/user-attachments/assets/01f83635-6659-4527-8eae-a9db2df7d7f0)
-[Captura de pantalla 2024-12-04 212158](https://github.com/user-attachments/assets/ce2ecce6-cd36-4114-929f-b8450816a954)
+
+![Captura de pantalla 2024-12-04 212158](https://github.com/user-attachments/assets/b49d8221-0db4-4711-aaf3-c9ea9bcc9ee1)
 # Programas en thonny
 
 [ChukyPrograma.zip](https://github.com/user-attachments/files/18016988/ChukyPrograma.zip)
