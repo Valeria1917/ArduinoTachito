@@ -11,6 +11,7 @@ Para crear un árbol navideño interactivo, necesitarás varios componentes elec
 ![Captura de pantalla 2024-09-27 191515](https://github.com/user-attachments/assets/5781de0f-f037-40f0-96aa-b89066d11128)
 
 ![Captura de pantalla 2024-09-27 191522](https://github.com/user-attachments/assets/b2c0935c-7ee7-4932-8258-bbe11642822c)
+![Captura de pantalla 2024-12-04 210742](https://github.com/user-attachments/assets/e44b20ea-7a7b-4761-8e10-e53c7bfd8a3d)
 # Software a utilizar
 Thonny, Arduino
 # Dibujo del personaje
