@@ -195,6 +195,8 @@ Thonny, Arduino,Node Red
 # Programa para conectar a Node-Red el Arbol
 [árbol_bien.zip](https://github.com/user-attachments/files/18017086/arbol_bien.zip)
 
+# Coevaluación
+Para mi y mi compañera Pao, fue un reto difícil pero no imposible, ya que pudimos trabajar bajo estrés y superar los errores que iban ocurriendo, como el problema con un sensor que se quemó y nos impedía avanzar. A pesar de los obstáculos, logramos mantener la calma y buscar soluciones juntos, lo que nos permitió seguir adelante con el proyecto. La experiencia fue un buen ejercicio de perseverancia y colaboración.
 
 
 # Imagen de los examenes de cisco
