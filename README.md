@@ -1,6 +1,6 @@
 # Nombre del personaje 
 
- Árbol de Navidad
+ Árbol de Navidad y Chucky
 # Creador 
 Valeria Guadalupe Calvillo Mendoza
 # Explicación de funcionamiento
