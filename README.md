@@ -26,30 +26,27 @@ Thonny, Arduino,Node Red
 # Imagen de los examenes de cisco
 
 # Módulo 1
-
-
+![Captura de pantalla 2024-12-04 212859](https://github.com/user-attachments/assets/c1a249fb-657c-4eb9-a002-48a187a44311)
 # Módulo 2
-
+![Captura de pantalla 2024-12-04 213130](https://github.com/user-attachments/assets/5b232049-08c2-4cc0-9d8c-559c04284177)
 
 
 
 # Módulo 3
+![Captura de pantalla 2024-12-04 213231](https://github.com/user-attachments/assets/63403eeb-2c37-4503-94b1-e4eacdac4275)
 
 
 
 # Módulo 4
-
-
-
-
-
+![Captura de pantalla 2024-12-04 213409](https://github.com/user-attachments/assets/21f04e23-3f3a-4016-bbbc-ae8a5f139335)
 # Módulo 5
 
+![Captura de pantalla 2024-12-04 213548](https://github.com/user-attachments/assets/964a15ed-5678-44e8-9859-f966834f49c7)
 
 # Módulo 6
-
+![Captura de pantalla 2024-12-04 213812](https://github.com/user-attachments/assets/6adb7d1e-f6ce-4019-a2d4-58c69f3771b5)
 # Examen Final
-
+![Captura de pantalla 2024-12-04 213933](https://github.com/user-attachments/assets/470cfa4d-af49-40f0-bda3-d0caa0374b65)
 
 
 
